@@ -1,6 +1,6 @@
 A list stores a sequence of values.
 ```python
-
+list = [1, 3, 3]
 ```
 
 ## Operators

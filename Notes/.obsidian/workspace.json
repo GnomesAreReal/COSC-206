@@ -11,8 +11,12 @@
             "id": "1aec004fe5e221f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "COSC 206/Lists.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COSC 206/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COSC 206/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COSC 206/Lists.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aec004fe5e221f1",
+  "active": "26e7381b724caf6e",
   "lastOpenFiles": [
     "COSC 206/Lists.md",
     "Learn To Code By Solving Problems.pdf"
