@@ -1,5 +1,6 @@
 amounts = [100, 500, 1000, 5000, 10000, 25000, 50000, 100000, 500000, 1000000]
 opened_cases = int(input())
+
 for i in range(opened_cases):
     amounts[int(input())-1] = 0
 offer = int(input())
