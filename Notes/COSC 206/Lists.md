@@ -22,6 +22,11 @@ True
 6
 ```
 # Methods
+```python
+# index method. Return the leftmost index of a value in a list
+[1, 2, 3, 4].index(3)
+>>> 2
+```
 ## Adding Items
 ```python
 # append method, add a value to the end of the list
